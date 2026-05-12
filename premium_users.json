@@ -1,0 +1,23 @@
+{
+  "premiumUserIds": [
+      "7691070152"
+      ],
+  "incognitoUserIds": [],
+  "users": {
+    "8605695876": {
+      "active": true,
+      "accessType": "marketing",
+      "incognito": true
+    },
+    "6610925597": {
+      "active": true,
+      "accessType": "combo",
+      "incognito": true
+    },
+    "5305261101": {
+      "active": true,
+      "accessType": "combo",
+      "incognito": true
+    }
+  }
+}
